@@ -1,0 +1,4 @@
+#File that will be ignored by Git
+secret.txt
+
+
